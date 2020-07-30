@@ -1,6 +1,6 @@
 Frontend Arbeit.
 
-Aufbau (resposive) Webseite aus .PSD Mockups.
+Aufbau eine Webseite aus .PSD Mockups.
 
 Photoshop,
 HTML5,
