@@ -4,7 +4,7 @@
 # Ein kleines Exemplar für die Frontend-Programmierung:
 #Aufbau neuer Webseite aus Mockup (Adobe Photopshop .PSD).
 
-# Tools und Tecdhnologie
+# Tools und Technologie
 
 #Photoshop 2020
 
