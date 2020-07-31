@@ -1,7 +1,7 @@
 # Frontend Arbeit.
 #.PSD ZUM .HTML
 
-# Ein kleines Exemplar von Frontend-Arbeit
+# Ein kleines Exemplar von Frontend-Programmierung:
 #Aufbau neuer Webseite aus Mockup (Adobe Photopshop .PSD).
 
 # Tools und Tecdhnologie
