@@ -22,4 +22,4 @@
 
 #oder
 
-#meine Quell-Code auf Github ansehen und vergleichen
+#meine Quellcode auf Github ansehen und vergleichen
