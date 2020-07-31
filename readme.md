@@ -2,7 +2,7 @@
 #.PSD ZUM .HTML
 
 # Ein kleines Exemplar für die Frontend-Programmierung:
-#Aufbau neuer Webseite aus Mockup (Adobe Photopshop .PSD).
+#Aufbau neuer Webseite aus Mockup (Adobe Photoshop .PSD).
 
 # Tools und Technologie
 
