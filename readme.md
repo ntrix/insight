@@ -1,8 +1,8 @@
 # Frontend Arbeit.
-## .PSD ZUM .HTML
+**.PSD ZUM .HTML**
 
 ## Exemplare für die Frontend-Programmierung:
-Aufbau neuer Webseite aus Mockup (Adobe Photoshop .PSD).
+*Aufbau neuer Webseite aus Mockup (Adobe Photoshop .PSD).*
 
 ## Tools und Technologie
 
