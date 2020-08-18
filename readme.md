@@ -1,25 +1,25 @@
 # Frontend Arbeit.
-#.PSD ZUM .HTML
+## .PSD ZUM .HTML
 
-# Ein kleines Exemplar für die Frontend-Programmierung:
-#Aufbau neuer Webseite aus Mockup (Adobe Photoshop .PSD).
+## Exemplare für die Frontend-Programmierung:
+Aufbau neuer Webseite aus Mockup (Adobe Photoshop .PSD).
 
-# Tools und Technologie
+## Tools und Technologie
 
-#Photoshop 2020
+* Photoshop 2020
 
-#HTML 5
+* HTML 5
 
-#CSS 3
+* CSS 3
 
-#Option: JQuery 3
+* Option: JQuery 3
 
 
-# --------------------------------------------------------
-#Diese Seite wurde auf meinem eigenen Weg aufgebaut um meine Programmierungskenntnisse und -Technik mit dem originellen Artikel zu vergleichen.
+## --------------------------------------------------------
+Diese Seite wurde auf meinem eigenen Weg aufgebaut um meine Programmierungskenntnisse und -Technik mit dem originellen Artikel zu vergleichen.
 
-#.PSD im Mockup Ordner herunterladen
+.PSD im Mockup Ordner herunterladen
 
-#oder
+oder
 
-#meine Quellcode auf Github ansehen und vergleichen
+meine Quellcode auf Github ansehen und vergleichen
